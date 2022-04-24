@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T17:36:12.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="quY91n7yuygs5pJAGz-W" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T18:00:09.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="rYpDZ9UHuvVr_loXDKMw" version="17.4.6" type="github" pages="2">
   <diagram id="m-eAtUqbNKNmQCcAXYnf" name="第 1 页">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,29 @@
             <mxPoint x="200" y="410" as="sourcePoint" />
             <mxPoint x="250" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="v2-2_FOrBSnhDc4nN9Yb" name="第 2 页">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2CLd0Ci9i_ObZqzSh1zs-1" value="医生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="85" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLd0Ci9i_ObZqzSh1zs-2" value="查看患者病历" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLd0Ci9i_ObZqzSh1zs-4" value="确认患者信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLd0Ci9i_ObZqzSh1zs-5" value="给患者开处方" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2CLd0Ci9i_ObZqzSh1zs-6" value="录入患者情况" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
